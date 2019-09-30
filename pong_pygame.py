@@ -3,6 +3,7 @@ import pygame
 from pygame.locals import *
 import sys
 
+#gittest
 def main():
     (w, h) = (300,200) #window size
     (x, y) = (10, h//2) # racket senter
